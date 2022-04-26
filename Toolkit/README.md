@@ -48,6 +48,7 @@ then click on the file name.
   - Handout - Setting Boundaries
   - Job Aid for Employees
   - Job Aid for Managers
+  - Job Aid for Managing Remote and Hybrid Workers
   - Tips and Tricks for Building Workplace Bonds
 - Survey and Assessment Questions
   - Cultures and Relationships - Questions
