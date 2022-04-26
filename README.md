@@ -12,4 +12,4 @@ Thanks for visiting!
 
 The deliverables and research that went into this project can be found here:
 
-- [ITLA 29 Toolkit](Toolkit/README.md)
+- [ITLA 29 Toolkit](Toolkit/)
