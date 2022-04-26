@@ -62,4 +62,4 @@ Links directly to the documents are found below:
     Tool](Survey%20and%20Assessment%20Questions/The%20Wheel%20of%20Life%20-%20Interactive%20Tool.xlsx)
 - Cohort Research
   - [Research - Work Cultures and Work
-    Relationships](Cohort%20Research/Research%20-%20Work%20Cultures%20and%20Work%20Relationships.pdf)
+    Relationships](Cohort-Research/Research-work-cultures-and-work-relationships.pdf)
