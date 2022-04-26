@@ -36,30 +36,22 @@ A breakdown of each folder is found below:
     desire and readiness for telework; the other documents found in this folder
     relate to assessing your organization's work relationships and culture.
 
-## List of and Links to Deliverables
+## Folder Contents
 
-Links directly to the documents are found below:
+A list of the contents for each folder can be found below. To view or download
+the deliverable(s), navigate to the folder that contains the deliverable and
+then click on the file name.
 
 - Quick Reference Guide
-  - [Employee Journey
-    Map](Quick%20Reference%20Guide/Employee%20Journey%20Map.pdf)
-  - [Handout - EAP Work-Life
-    Balance](Quick%20Reference%20Guide/Handout%20-%20EAP%20Work-Life%20Balance.pdf)
-  - [Handout - Setting
-    Boundaries](Quick%20Reference%20Guide/Handout%20-%20Setting%20Boundaries.pdf)
-  - [Job Aid for
-    Employees](Quick%20Reference%20Guide/Job%20Aid%20for%20Employees.pdf)
-  - [Job Aid for
-    Managers](Quick%20Reference%20Guide/Job%20Aid%20for%20Managers.pdf)
-  - [Tips and Tricks for Building Workplace
-    Bonds](Quick%20Reference%20Guide/Tips%20and%20Tricks%20for%20Building%20Workplace%20Bonds.pdf)
+  - Employee Journey Map
+  - Handout - EAP Work-Life Balance
+  - Handout - Setting Boundaries
+  - Job Aid for Employees
+  - Job Aid for Managers
+  - Tips and Tricks for Building Workplace Bonds
 - Survey and Assessment Questions
-  - [Cultures and Relationships -
-    Questions](Survey%20and%20Assessment%20Questions/Cultures%20and%20Relationships%20-%20Questions.pdf)
-  - [Telework Survey
-    Questions](Survey%20and%20Assessment%20Questions/Telework%20Survey%20Questions.pdf)
-  - [The Wheel of Life - Interactive
-    Tool](Survey%20and%20Assessment%20Questions/The%20Wheel%20of%20Life%20-%20Interactive%20Tool.xlsx)
+  - Cultures and Relationships - Questions
+  - Telework Survey Questions
+  - The Wheel of Life - Interactive Tool
 - Cohort Research
-  - [Research - Work Cultures and Work
-    Relationships](Cohort-Research/Research-work-cultures-and-work-relationships.pdf)
+  - Research - Work Cultures and Work Relationships
