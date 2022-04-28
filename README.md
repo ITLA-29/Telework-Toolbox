@@ -5,10 +5,10 @@
 This repository is meant to house all final project-related materials from the
 California Department of Technology IT Leadership Academy, cohort 29 (ITLA 29).
 
-The folders found in this repository are designed to organize the materials produced by the ITLA
-29 cohort. There are three sub-folders in this directory, each containing one or
-more files that we hope will help in your telework efforts, no matter where you
-are in the journey.
+The folders found in this repository are designed to organize the materials
+produced by the ITLA 29 cohort. There are three sub-folders in this directory,
+each containing one or more files that we hope will help in your telework
+efforts, no matter where you are in the journey.
 
 All of the toolkit deliverables can be used as stand-alone artifacts. There is
 no document or tool that is dependent on another. That being said, there are
@@ -31,9 +31,10 @@ A breakdown of each folder is found below:
     are often used as quick reference or desk reference guides.
 - Survey and Assessment Questions
   - This folder is meant to capture documents related to interview and survey
-    questions. One document contains questions which can be used to assess an organization's
-    desire and readiness for telework; the other documents found in this folder
-    relate to assessing an organization's work relationships and culture.
+    questions. One document contains questions which can be used to assess an
+    organization's desire and readiness for telework; the other documents found
+    in this folder relate to assessing an organization's work relationships and
+    culture.
 
 ## Folder Contents
 
