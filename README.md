@@ -39,20 +39,21 @@ A breakdown of each folder is found below:
 ## Folder Contents
 
 A list of the contents for each folder can be found below. To view or download
-the deliverable(s), navigate to the folder that contains the deliverable and
-then click on the file name.
+the deliverable(s), just click on the file name.
 
-- Quick Reference Guide
+- **Quick Reference Guide**
   - [Employee Journey Map](/Quick-Reference-Guide/employee-journey-map.pdf)
-  - Handout - EAP Work-Life Balance
-  - Handout - Setting Boundaries
-  - Job Aid for Employees
-  - Job Aid for Managers
-  - Job Aid for Managing Remote and Hybrid Workers
-  - Tips and Tricks for Building Workplace Bonds
-- Survey and Assessment Questions
-  - Cultures and Relationships - Questions
-  - Telework Survey Questions
-  - The Wheel of Life - Interactive Tool
-- Cohort Research
-  - Research - Work Cultures and Work Relationships
+  - [Handout - EAP Work-Life Balance](/Quick-Reference-Guide/handout-eap-work-life-balance.pdf)
+  - [Handout - Setting Boundaries](/Quick-Reference-Guide/handout-setting-boundaries.pdf)
+  - [Job Aid for Employees](/Quick-Reference-Guide/job-aid-for-employees.pdf)
+  - [Job Aid for Managers](/Quick-Reference-Guide/job-aid-for-managers.pdf)
+  - [Job Aid for Managing Remote and Hybrid Workers](/Quick-Reference-Guide/job-aid-managing-remote-and-hybrid-workers.pdf)
+  - [Tips and Tricks for Building Workplace Bonds](/Quick-Reference-Guide/tips-and-tricks-for-building-workplace-bonds.pdf)
+- **Survey and Assessment Questions**
+  - [Cultures and Relationships - Questions](/Survey-And-Assessment-Questions/cultures-and-relationships-questions.pdf)
+  - [Telework Survey Questions](/Survey-And-Assessment-Questions/telework-survey-questions.pdf)
+  - [The Wheel of Life - Interactive Tool](/Survey-And-Assessment-Questions/the-wheel-of-life-interactive-tool.xlsx)
+- **Cohort Research**
+  - [Research - Work Cultures and Work Relationships](/Cohort-Research/research-work-cultures-and-work-relationships.pdf)
+- **Full Toolkit**
+  - To download the full toolkit, click [this link](ITLA%2029%20Telework%20Toolkit.zip)
