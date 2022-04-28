@@ -43,7 +43,7 @@ the deliverable(s), navigate to the folder that contains the deliverable and
 then click on the file name.
 
 - Quick Reference Guide
-  - Employee Journey Map
+  - [Employee Journey Map](/Quick-Reference-Guide/employee-journey-map.pdf)
   - Handout - EAP Work-Life Balance
   - Handout - Setting Boundaries
   - Job Aid for Employees
