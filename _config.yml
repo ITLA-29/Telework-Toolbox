@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: ITLA 29 Toolkit
 description: Toolkit for Telework
+hide_first_title: true
