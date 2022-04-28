@@ -56,4 +56,4 @@ the deliverable(s), just click on the file name.
 - **Cohort Research**
   - [Research - Work Cultures and Work Relationships](/Cohort-Research/research-work-cultures-and-work-relationships.pdf)
 - **Full Toolkit**
-  - To download the full toolkit, click [this link](ITLA%2029%20Telework%20Toolkit.zip)
+  - To download the full toolkit, click [this link](itla-29-telework-toolkit.zip)
