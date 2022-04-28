@@ -1,8 +1,6 @@
-# This is a test
+# ITLA 29 Toolkit
 
-## ITLA 29 Toolkit
-
-### Overview
+## Overview
 
 This repository is meant to house all final project-related materials from the
 California Department of Technology IT Leadership Academy, cohort 29 (ITLA 29).
@@ -17,7 +15,7 @@ no document or tool that is dependent on another. That being said, there are
 some synergies between toolkit deliverables, so you may find using multiple
 items more helpful than using just one.
 
-### Context - Folder Contents
+## Context - Folder Contents
 
 A breakdown of each folder is found below:
 
@@ -38,7 +36,7 @@ A breakdown of each folder is found below:
     in this folder relate to assessing an organization's work relationships and
     culture.
 
-### Folder Contents
+## Folder Contents
 
 A list of the contents for each folder can be found below. To view or download
 the deliverable(s), just click on the file name.
