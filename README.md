@@ -2,18 +2,16 @@
 
 ## Overview
 
-This repository is meant to house all final project-related materials from the
+This page is meant to house all final project-related materials from the
 California Department of Technology IT Leadership Academy, cohort 29 (ITLA 29).
 
-The folders found in this repository are designed to organize the materials
-produced by the ITLA 29 cohort. There are three sub-folders in this directory,
-each containing one or more files that we hope will help in your telework
-efforts, no matter where you are in the journey.
+There are three groups of materials - Cohort Research, Quick Reference Guides, 
+and Survey and Assessment Questions. Each group contains one or more files that 
+we hope will help in your telework efforts, no matter where you are in the journey.
 
-All of the toolkit deliverables can be used as stand-alone artifacts. There is
-no document or tool that is dependent on another. That being said, there are
-some synergies between toolkit deliverables, so you may find using multiple
-items more helpful than using just one.
+All of the toolkit deliverables can be used as stand-alone artifacts. That being said, 
+there are some synergies between toolkit deliverables, so you may find using multiple
+items more helpful to use multiple artifacts together rather than using just one.
 
 ## Context - Folder Contents
 
@@ -24,14 +22,14 @@ A breakdown of each folder is found below:
     are including it here for those that are interested in how we created some
     of our materials and the definitions we used when creating our deliverables.
     The information contained in this folder is supplementary and it is not
-    necessary to review these documents in order to use other toolkit
+    necessary to review these documents to use other toolkit
     deliverables.
-- Quick Reference Guide
+- Quick Reference Guides
   - This folder is meant to capture the 'one-pager' types of deliverables that
-    are often used as quick reference or desk reference guides.
+    are often used as a quick reference or desk reference guides.
 - Survey and Assessment Questions
   - This folder is meant to capture documents related to interview and survey
-    questions. One document contains questions which can be used to assess an
+    questions. One document contains questions that can be used to assess an
     organization's desire and readiness for telework; the other documents found
     in this folder relate to assessing an organization's work relationships and
     culture.
