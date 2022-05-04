@@ -1,0 +1,152 @@
+www.guidedtrack.com
+
+*settings
+	*back: yes
+
+>> answerScale = [["Strongly agree", 1], ["Agree", 2], ["Neither agree nor disagree", 3], ["Disagree", 4], ["Strongly disagree", 5]]
+>> workSetting = [["Completely in-office", 1], ["Completely remote", 2], ["A hybrid of the two", 3]]
+
+*label: Beginning
+
+*header: Building Healthy Work Cultures and Relationships
+
+Hello, and thank you for participating in this survey!
+
+As part of the Information Technology Leadership Academy (ITLA) 29, we have designed this survey to help State leaders better understand the successes and pain points around work cultures and relationships to assist in building more meaningful tools and best practices for use across the State.
+
+Your survey responses will remain anonymous and may be used for research and presentation purposes.
+
+This survey consists of 26 questions and should take approximately 7 minutes.
+
+When you're ready to begin, _click the button below._
+
+If you would like to go back to a previous question, click the "<" button in the upper left hand corner of this site (not your browser's back button).
+
+*button: Begin
+
+*question: Please enter the time you are starting this survey
+	*type: calendar
+	*time: yes
+	*save: TimeStart
+
+*header: Demographics
+
+*question: Please enter what type of position you hold in your organization:
+	Team Member
+	Manager / Supervisor
+	Executive
+	Prefer not to say
+
+*progress: 0%
+*question: Q1: We stay connected as a team
+	*answers: answerScale
+
+*progress: 4%	
+*question: Q2: Our team meetings and discussions are effective
+	*answers: answerScale
+
+*progress: 8%
+*question: Q3: We have enough autonomy to perform our jobs effectively
+	*answers: answerScale
+
+*progress: 11%
+*question: Q4: I know how my work contributes to the mission of my organization
+	*answers: answerScale
+
+*progress: 15%
+*question: Q5: I feel I am part of a team
+	*answers: answerScale
+
+*progress: 19%
+*question: Q6: Other units collaborate effectively with us to get the job done
+	*answers: answerScale
+
+*progress: 23%
+*question: Q7: My supervisor helps me feel valued at my organization
+	*answers: answerScale
+
+*progress: 27%
+*question: Q8: There is open and honest two-way communication with my supervisor
+	*answers: answerScale
+
+*progress: 31%
+*question: Q9: We are encouraged to be innovative even if success is not guaranteed
+	*answers: answerScale
+
+*progress: 35%
+*question: Q10: I feel comfortable being my authentic self at work
+	*answers: answerScale
+
+*progress: 38%
+*question: Q11: I feel valued for the unique contribution I can make to my organization
+	*answers: answerScale
+
+*progress: 42%
+*question: Q12: I feel safe to take risks and fail within my organization
+	*answers: answerScale
+
+*progress: 46%
+*question: Q13: People on my team care about me as a person
+	*answers: answerScale
+
+*progress: 50%
+*question: Q14: People on my team share information with each other
+	*answers: answerScale
+
+*progress: 54%
+*question: Q15: My supervisor listens to what I have to say
+	*answers: answerScale
+
+*progress: 58%
+*question: Q16: My supervisor is available when I need them
+	*answers: answerScale
+
+*progress: 62%
+*question: Q17: I have measurable goals that are clearly explained
+	*answers: answerScale
+
+*progress: 65%
+*question: Q18: I achieve a good balance between my work life and my private life
+	*answers: answerScale
+
+*progress: 69%
+*question: Q19: I feel valued as an employee
+	*answers: answerScale
+
+*progress: 73%
+*question: Q20: I receive recognition for doing good work
+	*answers: answerScale
+
+*progress: 77%
+*question: Q21: I am treated fairly at work
+	*answers: answerScale
+
+*progress: 81%
+*question: Q22: Based on your experience over the past two years, which work setting do you find works best for *you*?
+	*answers: workSetting
+
+*progress: 85%
+*question: Q23: Based on your experience over the past two years, which work setting do you find works best for promoting *healthy work relationships*?
+	*answers: workSetting
+
+*progress: 88%
+*question: Q24: Based on your experience over the past two years, which work setting do you find works best for promoting *a healthy work culture* within your team?
+	*answers: workSetting
+
+*progress: 92%
+*question: Q25: Please enter up to three words or phrases that you associate with *healthy work relationships*
+	*tip: One word or phrase per text box. It is possible to enter more than three, we would like to know what your top three are.
+	*multiple
+
+*progress: 96%
+*question: Q26: Please enter up to three words or phrases that you associate with a healthy work culture
+	*tip: One word or phrase per text box. It is possible to enter more than three, we would like to know what your top three are.
+	*multiple
+
+*progress: 100%
+*question: Please enter the time you are completing this survey
+	*type: calendar
+	*time: yes
+	*save: TimeEnd
+
+Thank you for taking part in this survey!
