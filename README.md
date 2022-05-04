@@ -5,10 +5,10 @@
 This page is meant to house all final project-related materials from the
 California Department of Technology IT Leadership Academy, cohort 29 (ITLA 29).
 
-There are three groups of materials - Cohort Research, Quick Reference Guides,
-and Survey and Assessment Questions. Each group contains one or more files that
-we hope will help in your telework efforts, no matter where you are in the
-journey.
+There are four groups of materials - Cohort Research, Presentation Slide Deck,
+Quick Reference Guides, and Survey and Assessment Questions. Each group contains
+one or more files that we hope will help in your telework efforts, no matter
+where you are in the journey.
 
 All of the toolkit deliverables can be used as stand-alone artifacts. That being
 said, there are some synergies between toolkit deliverables, so you may find
