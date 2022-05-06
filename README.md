@@ -63,3 +63,5 @@ the deliverable(s), just click on the file name.
   - [Research - Work Cultures and Work Relationships](/Cohort-Research/research-work-cultures-and-work-relationships.pdf)
 - **Full Toolkit**
   - To download the full toolkit, click [this link](itla-29-telework-toolkit.zip)
+- **Presentation Slide Deck**
+  - To view and download the slide deck, click [this link](Presentation-Slide-Deck/itla-29-presentation-slides-attendee-version.pdf)
